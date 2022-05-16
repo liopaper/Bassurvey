@@ -9,5 +9,5 @@
 
 const urls = [
 	'https://www.facebook.com/',
-	'https://scholar.google.com.tw/'
+	'https://google.com.tw/'
 ];
